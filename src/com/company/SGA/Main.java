@@ -6,4 +6,8 @@ public class Main {
         // TODO code application logic here
         System.out.println("Hello World!");
     }
+    
+    public void name() {
+        System.out.println("Hello Rodrigurs!");
+    }
 }
